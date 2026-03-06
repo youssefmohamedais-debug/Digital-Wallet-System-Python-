@@ -1,0 +1,12 @@
+{
+  "class_indices": {
+    "Actinic Keratoses": 0,
+    "Basal Cell Carcinoma": 1,
+    "Benign Keratosis-like Lesions": 2,
+    "Dermatofibroma": 3,
+    "Melanocytic Nevi": 4,
+    "Melanoma": 5,
+    "Squamous Cell Carcinoma": 6,
+    "Vascular Lesions": 7
+  }
+}
